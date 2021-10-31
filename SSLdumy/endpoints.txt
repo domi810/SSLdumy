@@ -1,0 +1,7 @@
+https://badssl.com/
+https://expired.badssl.com/
+https://wrong.host.badssl.com/
+https://self-signed.badssl.com
+https://untrusted-root.badssl.com/
+https://revoked.badssl.com/
+https://pinning-test.badssl.com/

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSLdumy", "SSLdumy\SSLdumy.csproj", "{EC245318-01B7-4A18-8E7D-C1B6D708664D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC245318-01B7-4A18-8E7D-C1B6D708664D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC245318-01B7-4A18-8E7D-C1B6D708664D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC245318-01B7-4A18-8E7D-C1B6D708664D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC245318-01B7-4A18-8E7D-C1B6D708664D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4D6022-CC8A-412B-90FB-E11D3C340810}
+	EndGlobalSection
+EndGlobal
